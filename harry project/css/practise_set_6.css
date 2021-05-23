@@ -1,0 +1,10 @@
+.card img{
+   height:600px;
+}
+.card-body img{
+	height:300px;
+	overflow:hidden;
+}
+body{
+	font-family:sans-serif;
+}
